@@ -1,7 +1,8 @@
 {
   "name": "Fatty McFatFace",
   "short_name": "Fatty McFatFace",
-  "start_url": "./index.html",
+  "start_url": "../index.html",
+  "scope": "../",
   "display": "standalone",
   "background_color": "#0b0f14",
   "theme_color": "#0b0f14",
